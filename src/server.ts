@@ -1,4 +1,4 @@
-import bot from "./bot";
+import bot from "./utils/bot";
 import app from "./app";
 
 const port = process.env.PORT || 1729;
